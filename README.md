@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O NLW - Setup é um app para ajudar a rastrear os hábitos.
 
+- [Link do projeto](https://CarlaRochaBovi.github.io/Nlw-Setup)
 
 ## 🔖 Layout
 
